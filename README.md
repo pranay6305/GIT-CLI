@@ -6,9 +6,9 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ```
 Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
+ -  `p`: Principal amount
+ -  `r`, annual rate of interest (percentage)
+ - `t`: time period in years 
 Output
    simple interest = p*t*r
 ```
