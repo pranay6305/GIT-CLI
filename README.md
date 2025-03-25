@@ -1,7 +1,8 @@
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
-
+- 2022 XYZ, Inc.
++ 2023 XYZ, Inc.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
