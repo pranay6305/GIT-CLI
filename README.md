@@ -1,4 +1,3 @@
-# Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
@@ -13,4 +12,7 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+> ✍️ This is a small update by Atharva Kulkarni for GitHub Assignment.
+
+_© 2025 XYZ, Inc._
+
