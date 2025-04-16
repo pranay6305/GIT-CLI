@@ -2,6 +2,7 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
+# _© 2025 XYZ, Inc._#
 
 # Input:
 # p, principal amount
