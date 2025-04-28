@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+## Update
+This is a small edit for testing the bug-fix-typo branch.
