@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+Este cambio fue realizado por Valeri como parte del proyecto final.
+
+
