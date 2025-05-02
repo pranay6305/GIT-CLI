@@ -1,3 +1,8 @@
+# Project Example
+
+This is a project to practice Git and GitHub.
+
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
