@@ -5,6 +5,10 @@
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
+Author: Upkar Lidder (IBM)
+Addtional Authors:
+  - aanorbel
+
 Input:
    p, principal amount
    t, time period in years
