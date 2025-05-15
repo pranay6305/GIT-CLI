@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+# Simple Interest Project
+This is a simple interest script for calculating interest.
+[Corrected documentation typo for clarity on 2025-05-15]
