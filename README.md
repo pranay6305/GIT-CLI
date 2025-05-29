@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+
+Note: this project is part of a Git and GitHub learning exercise.
