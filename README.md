@@ -3,6 +3,11 @@
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+# Sample Project
+
+This project is a sample repository used for learning Git and GitHub.
+
+This is a test change made in the `bug-fix-typo` branch.
 
 ```
 Input:
