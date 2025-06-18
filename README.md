@@ -11,6 +11,8 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
 ```
 
+This is my first local merge test.  naingolan
 _© 2022 XYZ, Inc._
