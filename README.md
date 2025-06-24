@@ -11,6 +11,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+esto funicona o no
 ```
 
 _© 2025 XYZ, Inc._
