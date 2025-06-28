@@ -13,4 +13,8 @@ Output
    simple interest = p*t*r
 ```
 
+<<<<<<< HEAD
 _© 223 XYZ, Inc._
+=======
+2022 XYZ, Inc.
+>>>>>>> parent of 0a049b5 (fixed typo in readme.md)
