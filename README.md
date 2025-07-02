@@ -1,5 +1,7 @@
 # Introduction to Git and GitHub
+## YUpdates to check pull requests
 
+This has been created to afford the opportunity to detect changes via a pull request
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
