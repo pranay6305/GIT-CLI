@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-✅ This is a practice repository for learning Git and GitHub.
+✅ Git and GitHub practice line added for merge test.
