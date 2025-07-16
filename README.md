@@ -1,7 +1,6 @@
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
-This is a sample line added to demonstrate a merge in the IBM Git course.
+## Simple Interest Calculato
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
