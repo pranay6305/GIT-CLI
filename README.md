@@ -14,4 +14,3 @@ Output
 ```
 
 hello
-i am
