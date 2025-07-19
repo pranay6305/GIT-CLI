@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+✅ This edit is part of my Git and GitHub course assignment.
+
