@@ -3,6 +3,7 @@
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+I forked from IBM repo and working on it.
 
 ```
 Input:
