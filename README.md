@@ -1,6 +1,6 @@
 # Introduction to Git and GitHub
 
-I M.Wahaj yasin changed this file
+I M.Wahaj yasin changed this file and taking screen shot to show file
 
 ## Simple Interest Calculator
 
