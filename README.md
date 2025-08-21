@@ -14,3 +14,8 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+# Introduction to Git and GitHub
+
+This is a practice repository.
+
+✅ Fixed a typo in this file.
